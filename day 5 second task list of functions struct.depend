@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678797145 source:d:\iti 3 months\day 1\day 5 second task list of functions struct\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cctype>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
